@@ -53,3 +53,6 @@ Convertem a estrutura para double usando structPaReal;
 Realizam a operação matemática;
 
 Convertem o resultado de volta para realTipo.
+
+OBS: Para executar, você cria o executável no terminal gcc real.c -o executavelReal -lm
+após isso para executar é só colocar no terminal ./executavelReal
