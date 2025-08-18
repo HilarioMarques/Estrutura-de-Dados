@@ -1,6 +1,8 @@
 # Estrutura-de-Dados
 
-# Estrutura `realType` em C
+# Questão 3
+
+## Estrutura `realType` em C
 
 Este projeto demonstra como representar números reais em C utilizando uma `struct` que separa a parte inteira e a parte fracionária.
 
